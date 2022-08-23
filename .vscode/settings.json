@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "serial.h": "c",
+        "app_serial.h": "c",
+        "ti_znp.h": "c",
+        "stdint.h": "c",
+        "stdio.h": "c",
+        "types.h": "c"
+    }
+}
